@@ -1,0 +1,23 @@
+.Navbar {
+  height: 30px;
+}
+
+.Navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.Navbar ul li {
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.Navbar ul li:hover {
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+.Navbar ul li:last-child {
+  margin-right: 0;
+}
+
