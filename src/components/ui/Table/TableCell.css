@@ -1,0 +1,8 @@
+.TableCell {
+  border: 1px solid #333;
+}
+
+.active {
+  border: 1px solid #0000ff;
+  background-color: bisque;
+}
